@@ -1,7 +1,6 @@
 import { defineConfig } from '@twind/core';
 
 // Importando as fontes
-import '@fontsource/campuni';
 import '@fontsource/alegreya-sans';
 import '@fontsource/inter';
 

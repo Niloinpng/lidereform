@@ -1,3 +1,17 @@
+@font-face {
+  font-family: 'CampuniRegular';
+  src: url('src/fonts/Campuni-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'CampuniBold';
+  src: url('src/fonts/Campuni-Bold.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 .App {
   text-align: center;
 }
